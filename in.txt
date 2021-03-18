@@ -1,0 +1,387 @@
+1
+1023
+1405
+3
+201910
+Robert Collier
+1406
+4
+201910
+Mark Lanthier
+1805
+-1
+201910
+Robert Collier
+2401
+8
+201910
+Doron Nussbaum
+2402
+0
+201910
+Jason Hinek
+0
+1
+1024
+1405
+0
+201830
+Robert Collier
+1405
+7
+201910
+Robert Collier
+1406
+10
+201910
+Mark Lanthier
+1805
+0
+201910
+Robert Collier
+2804
+4
+201910
+Michiel Smid
+0
+1
+1032
+1405
+9
+201910
+Robert Collier
+1406
+11
+201910
+Mark Lanthier
+1805
+4
+201910
+Robert Collier
+2402
+7
+201910
+Pat Morin
+2406
+12
+201910
+Lou Nel
+2401
+6
+201910
+Doron Nussbaum
+2404
+5
+201910
+Christine Laurendeau
+0
+1
+1041
+1405
+-1
+201830
+Robert Collier
+1406
+5
+201830
+Mark Lanthier
+1805
+-1
+201830
+Robert Collier
+2401
+8
+201830
+Doron Nussbaum
+2402
+0
+201830
+Jason Hinek
+0
+1
+1054
+1405
+0
+201830
+Robert Collier
+1405
+7
+201830
+Robert Collier
+1406
+10
+201830
+Mark Lanthier
+1805
+0
+201830
+Robert Collier
+2804
+4
+201830
+Michiel Smid
+0
+1
+1098
+1405
+9
+201830
+Robert Collier
+1406
+11
+201830
+Mark Lanthier
+1805
+4
+201830
+Robert Collier
+2402
+7
+201830
+Pat Morin
+2406
+12
+201830
+Lou Nel
+2401
+6
+201830
+Doron Nussbaum
+2404
+5
+201830
+Christine Laurendeau
+0
+1
+1049
+1405
+3
+201820
+Robert Collier
+1406
+5
+201820
+Mark Lanthier
+1805
+-1
+201820
+Robert Collier
+2401
+8
+201820
+Doron Nussbaum
+2402
+0
+201820
+Jason Hinek
+0
+1
+1087
+1405
+0
+201820
+Robert Collier
+1405
+2
+201820
+Robert Collier
+1406
+0
+201820
+Mark Lanthier
+1805
+0
+201820
+Robert Collier
+2804
+4
+201820
+Michiel Smid
+0
+1
+1087
+1405
+9
+201820
+Robert Collier
+1406
+11
+201820
+Mark Lanthier
+1805
+4
+201820
+Robert Collier
+2402
+7
+201820
+Pat Morin
+2406
+12
+201820
+Lou Nel
+2401
+6
+201820
+Doron Nussbaum
+2404
+5
+201820
+Christine Laurendeau
+0
+1
+1043
+1405
+-1
+201810
+Robert Collier
+1406
+-1
+201810
+Mark Lanthier
+1805
+-1
+201810
+Robert Collier
+2401
+8
+201810
+Doron Nussbaum
+2402
+0
+201810
+Jason Hinek
+0
+1
+1046
+1405
+0
+201810
+Robert Collier
+1405
+2
+201810
+Robert Collier
+1406
+10
+201810
+Mark Lanthier
+1805
+0
+201810
+Robert Collier
+2804
+2
+201810
+Michiel Smid
+0
+1
+1077
+1405
+0
+201810
+Robert Collier
+1406
+-1
+201810
+Mark Lanthier
+1805
+4
+201810
+Robert Collier
+2402
+0
+201810
+Pat Morin
+2406
+0
+201810
+Lou Nel
+2401
+0
+201810
+Doron Nussbaum
+2404
+5
+201810
+Christine Laurendeau
+0
+1
+1045
+1405
+3
+201730
+Robert Collier
+1406
+3
+201730
+Mark Lanthier
+1805
+-1
+201730
+Robert Collier
+2401
+0
+201730
+Doron Nussbaum
+2402
+0
+201730
+Jason Hinek
+0
+1
+1067
+1405
+0
+201730
+Robert Collier
+1405
+2
+201730
+Robert Collier
+1406
+5
+201730
+Mark Lanthier
+1805
+0
+201730
+Robert Collier
+2804
+4
+201730
+Michiel Smid
+0
+1
+1066
+1406
+9
+201810
+Mark Lanthier
+1406
+11
+201730
+Mark Lanthier
+1805
+4
+201730
+Robert Collier
+2402
+7
+201730
+Pat Morin
+2406
+12
+201730
+Lou Nel
+2401
+6
+201730
+Doron Nussbaum
+2404
+5
+201730
+Christine Laurendeau
+0
+0
+0
